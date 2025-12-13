@@ -1,5 +1,34 @@
-# 💫 About Me:
-### 🔭 I’m currently working on<br>- Developing Ethereum Smart Contracts and DApps  <br>- Experimenting with NFT and DeFi projects  <br><br>### 👯 I’m looking to collaborate on<br>- Open-source Solidity smart contracts  <br>- Innovative Web3 applications  <br>- Blockchain games and NFT marketplaces  <br><br>### 🤝 I’m looking for help with<br>- Rust for Solana programs  <br>- Advanced Web3 security and auditing  <br>- Zero Knowledge Proofs (zk-SNARKs) implementation  <br><br>### 🌱 I’m currently learning<br>- Rust programming  <br>- zk-SNARKs and Zero Knowledge Proofs  <br>- Advanced Ethereum tooling (Hardhat, Foundry)  <br>- Smart contract security best practices  <br><br>### 💬 Ask me about<br>- Ethereum and Solidity smart contracts  <br>- DApps development  <br>- NFT & DeFi projects   <br><br>### ⚡ Fun fact<br>- I love building blockchain games and experimenting with crypto art 🎨  <br>- I enjoy exploring new Web3 protocols and testing them in practice<br>
+💫 About Me:
+
+### 🔭 I’m currently working on
+- Building Ethereum Smart Contracts and full-featured DApps  
+- Exploring NFT and DeFi projects  
+
+### 👯 I’m looking to collaborate on
+- Open-source Solidity projects  
+- Cutting-edge Web3 applications  
+- Blockchain games and NFT marketplaces  
+
+### 🤝 I’m looking for help with
+- Writing Rust programs for Solana  
+- Advanced Web3 security and smart contract auditing  
+- Implementing Zero Knowledge Proofs (zk-SNARKs)  
+
+### 🌱 I’m currently learning
+- Rust programming and Solana development  
+- zk-SNARKs and other zero-knowledge technologies  
+- Advanced Ethereum tooling (Hardhat, Foundry)  
+- Best practices in smart contract security  
+
+### 💬 Ask me about
+- Ethereum and Solidity development  
+- Building DApps and Web3 ecosystems  
+- NFT & DeFi project design and implementation  
+
+### ⚡ Fun fact
+- I enjoy creating blockchain games and experimenting with crypto art 🎨  
+- I love diving into new Web3 protocols and testing them hands-on
+
 
 
 ## 🌐 Socials:
