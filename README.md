@@ -1,13 +1,12 @@
 💫 About Me:
 
 ### 🔭 I’m currently working on
-- Building Ethereum Smart Contracts and full-featured DApps  
-- Exploring NFT and DeFi projects  
+- Building Ethereum smart contracts and full-featured DApps  
+- Exploring DeFi projects  
 
 ### 👯 I’m looking to collaborate on
 - Open-source Solidity projects  
-- Cutting-edge Web3 applications  
-- Blockchain games and NFT marketplaces  
+- Cutting-edge Web3 applications    
 
 ### 🤝 I’m looking for help with
 - Writing Rust programs for Solana  
@@ -23,10 +22,9 @@
 ### 💬 Ask me about
 - Ethereum and Solidity development  
 - Building DApps and Web3 ecosystems  
-- NFT & DeFi project design and implementation  
+- DeFi project design and implementation  
 
-### ⚡ Fun fact
-- I enjoy creating blockchain games and experimenting with crypto art 🎨  
+### ⚡ Fun fact  
 - I love diving into new Web3 protocols and testing them hands-on
 
 
